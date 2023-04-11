@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "I'm for hire!"
+date:   2023-04-11 17:00:14 +0100
+categories: professional
+---
+## Hire me - I help your development teams understand capitalism!
+
+I'm a software product manager.
+
+Which is a fancy way of saying, I help software teams choose what to build next.
+
+As part of helping them choose, I need to know about various things:
+
+- What people need help with (the Designer is the expert if those people use the software)
+- What technical constraints there are to giving people what they need and want to pay for (the software coders are the experts here)
+- What people and companies are willing to pay for (this is my area of expertise - notably capitalism, markets, pricing)
+
+As companies get bigger and more complex, more gets added to the above:
+
+- What can we support (ie can we help people if they get stuck or it breaks)
+- What can we sell (ie if you sell to a company, there are extra people to convince as well as the users)
+- What might make money tomorrow vs what might make more money even later
+- What can we get working with another team who are making something that goes with what we are making?
+- What allows us to receive money from investors so we can then use that money to do something more than we can currently afford
+
+Ok, so that's what most good product managers do. What do *I* do that's extra to the above?
+
+- I'm really good at launching products and finding that thing called product-market fit. It means people love what you made and start banging at your doors to have it.
+- I have an extreme preference for modern agile teams. And by modern I mean throwback almost retro Agile Manifesto principles, not heavily prescriptive frameworks like SAFe.
+- I'm now good at going from 0 to 1 ie you have an idea, or some of a product, and I can help you tweak and grow it over time, or even radically change it.
+- The products I work on are often about converting or sharing something specialist to a more generalist audience, to give them access to the benefits too. That specialism might be medicine, or scientific instruments, or cybersecurity, or complicated government bureaucracy like social care finance. This means I need to know about stuff like ML & APIs but also know a good chunk about user centered design than average to do my job well.
+
+If you would like to hire me, my CV is here: [Ashley's CV](/assets/AshleyRolfmoreCV.pdf).
+
+I'm set up as freelance but I can also be an employee if you have a mechanism to employee me from Portugal.
+
+Thank you!

@@ -5,7 +5,7 @@ date:   2023-04-11 14:00:14 +0100
 categories: personal technical
 ---
 
-## The word "technical" is no longer fit for purpose.
+## The word "technical" is no longer fit for purpose
 
 At best, it's vague and confusing.
 
@@ -25,6 +25,9 @@ Next time you reach for the word "technical" **add what specific skills you are 
 Hopefully we will banish this confusing and discriminatory term and invent newer, clearer ones that suit our technology filled jobs and lives.
 
 Signed,
-Ashley Rolfmore
 
-(If you would also like to sign this manifesto, please email me with my first name at this domain and I will add your name)
+Ashley Rolfmore
+Rachel Adler
+
+If you would also like to sign this manifesto, please email me with my first name at this domain and I will add your name.
+If you'd also like to share some more examples of technical things so we can share the sheer number of topics and skills the word "technical" is used for, feel free to share and I can put together a post celebrating the wide range of skills out there. 
