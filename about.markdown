@@ -1,18 +1,15 @@
 ---
 layout: page
-title: About
+title: About Ashley
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Ashley Rolfmore.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+If you are here because of the Technical Manifesto, [go here to read]({% post_url 2023-04-11-A Technical Manifesto %}) and if you agree, contact me to sign it. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I post about topics that interest me, most of them are adjacent to what I do for a living or to relocating to Madeira. I love thinking about how technology affects lives and society, and I'm a bit of an organisational behaviour nerd.
 
+If you're interested in hiring me, [go here]({% post_url 2023-04-11-For-Hire %}).
 
-[jekyll-organization]: https://github.com/jekyll
+I also share two amazing cats with my husband, one shorthair and one longhair. They have proper names, but they never really respond to those names, so I have nicknamed one floof and one derp.

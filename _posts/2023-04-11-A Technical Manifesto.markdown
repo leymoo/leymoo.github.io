@@ -16,7 +16,7 @@ At best, it's vague and confusing.
 
 You may think it's obvious in context. It is sadly not.
 
-At worst, the word technical is used to "other" people. These people are technical, these people are not. This can be used to make people with these skills seem less important, or in the a different direction, used against underrepresented groups working in software and technology.
+At worst, the word technical is used to "other" people. These people are technical, these people are not. This can be used to make people with these skills seem less important, or in a different direction, used against underrepresented groups working in software and technology.
 
 So my request to you, reader, is to do one thing.
 
@@ -27,6 +27,7 @@ Hopefully we will banish this confusing and discriminatory term and invent newer
 Signed,
 
 Ashley Rolfmore
+
 Rachel Adler
 
 If you would also like to sign this manifesto, please email me with my first name at this domain and I will add your name.
