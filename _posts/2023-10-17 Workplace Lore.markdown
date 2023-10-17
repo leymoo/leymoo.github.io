@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Workplace lore when in the tech bubble"
-date:   2023-10-17 01:01:01 +0100
+date:   2023-10-16 01:01:01 +0100
 categories: software business rumors
 ---
 
