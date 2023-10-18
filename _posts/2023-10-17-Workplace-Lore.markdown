@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Workplace lore when in the tech bubble"
+title:  "Workplace Lore"
 date:   2023-10-17 01:01:01 +0100
 categories: professional software business rumors
 ---
 
-##  Workplace lore when in the tech bubble
+##  Everything in tech is made up, stop being so judgmental about it
 
 When someone passes you a piece of information about how things should be at work, have you ever paused to consider how that information got into their heads?
 
@@ -20,6 +20,7 @@ And some technology examples:
 
 * Cloud architecture has to use containerisation
 * [development language] is bad/good
+* You can't provision properly on bare metal, it's not useable for large scale products, you need automation tools
 * Open source software is not secure/compliant/etc
 * Docker solves all deployment problems
 * DevOps means you must have a platform team
