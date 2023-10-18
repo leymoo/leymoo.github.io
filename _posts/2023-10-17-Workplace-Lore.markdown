@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Workplace lore when in the tech bubble"
-date:   2023-10-16 01:01:01 +0100
-categories: software business rumors
+date:   2023-10-17 01:01:01 +0100
+categories: professional software business rumors
 ---
 
 ##  Workplace lore when in the tech bubble
@@ -12,7 +12,7 @@ When someone passes you a piece of information about how things should be at wor
 Some examples:
 
 * “Product management is user story writing - they tell the development team exactly what to make and the development team make it”
-* “You’re not in this meeting as we’re following scrum and you’re a chicken not a pig” [^1] 
+* “You’re not in this meeting as we’re following scrum and you’re a chicken not a pig” [^1]
 * “Harriet is an amazing Product Manager as she’s delivered all her stuff on time this year”
 * “Agile means we have to use story points”
 

@@ -28,7 +28,7 @@ Which is a fancy way of saying, I help software teams choose what to build next.
 
 - I'm really good at launching products and finding that thing called product-market fit. It means people love what you made and start banging at your doors to have it.
 - I have an extreme preference for modern agile teams. And by modern I mean throwback almost retro Agile Manifesto principles, not heavily prescriptive frameworks like SAFe.
-- I'm now good at going from 0 to 1 ie you have an idea, or some of a product, and I can help you tweak and grow it over time, or even radically change it.
+- I'm good at going from 0 to 1 ie you have an idea, or some of a product, and I can help you tweak and grow it over time, or even radically change it.
 - The products I work on are often about converting or sharing something specialist to a more generalist audience, to give them access to the benefits too. That specialism might be medicine, or scientific instruments, or cybersecurity, or complicated government bureaucracy like social care finance. This means I need to know about stuff like ML & APIs but also know a good chunk about user centered design than average to do my job well.
 
 If you would like to hire me, my CV is here: **[Ashley's CV](/assets/AshleyRolfmoreCV.pdf)**.
